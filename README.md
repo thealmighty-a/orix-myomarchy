@@ -1,3 +1,4 @@
+# ORIX
 # My Omarchy Configuration
 
 Personal dotfiles, themes, scripts, and configurations for Omarchy (Arch Linux + Hyprland).
