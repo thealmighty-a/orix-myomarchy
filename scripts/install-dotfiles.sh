@@ -4,7 +4,7 @@
 # This script clones your dotfiles repo and symlinks everything to your home directory
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-REPO_URL="https://github.com/thealmighty-a/my-omarchy.git"
+REPO_URL="https://github.com/thealmighty-a/orix-myomarchy.git"
 REPO_NAME="my-omarchy"
 
 # Check if stow is installed
