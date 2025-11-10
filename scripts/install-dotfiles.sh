@@ -5,7 +5,7 @@
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_URL="https://github.com/thealmighty-a/orix-myomarchy.git"
-REPO_NAME="my-omarchy"
+REPO_NAME="orix-myomarchy"
 
 # Check if stow is installed
 check_stow() {
